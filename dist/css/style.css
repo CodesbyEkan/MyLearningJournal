@@ -68,7 +68,7 @@ body {
   padding: 10em 2em 0 2em;
   height: 41.38em;
   width: 100%;
-  background-image: url("/images/blog-image-hero.png");
+  background-image: url("/dist/images/blog-image-hero.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
