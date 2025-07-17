@@ -65,7 +65,7 @@ body {
 }
 
 .intro {
-  padding: 15em 5em 0 2em;
+  padding: 10em 2em 0 2em;
   height: 41.38em;
   width: 100%;
   background-image: url("/images/blog-image-hero.png");
@@ -86,12 +86,13 @@ body {
 }
 
 .intro #caption {
-  font-size: 3.15em;
+  font-size: 4.15em;
   font-weight: 800;
+  line-height: 1.2;
 }
 
 .intro #text {
-  width: 25em;
+  width: 90%;
   font-size: 1rem;
 }
 
